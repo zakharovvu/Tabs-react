@@ -1,3 +1,7 @@
+*[preview](https://zakharovvu.github.io/Tabs-react/)---
+*[pull](https://github.com/zakharovvu/Tabs-react/pull/1/files)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
