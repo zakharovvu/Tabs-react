@@ -14,8 +14,8 @@ class Tabs extends React.Component {
 
   viwer(val) {
     let tab = this.state.value.find(tab => tab.title === val);
-    
-    this.setState({ taba: tab.children, tab: val });
+    this.setState({ taba: tab.children, tab: val },
+    () => console.log(val, this.state.taba));
   }
 
   render() {
